@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/Bucharest",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "y3k",
+      "libraryId": "115PpJGMPcPhEHNNmSyk9NEqMUO0RWV4BrJKJ5U_ERLphCNaMnmH9UMGa",
+      "version": "12"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
